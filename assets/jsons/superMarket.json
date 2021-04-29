@@ -1,1 +1,92 @@
+[
+    {
+        "Id" : 1,
+        "superMarketName" : "Dmart",
+        "latitude" : 21.2408184,
+        "longitude" : 72.8715705,
+        "addrasse" : "Mota Varachha, Surat, Gujarat 394105",
+        "ratting" : 4.3
+    },
 
+    {
+        "Id" : 2,
+        "superMarketName" : "Dmart",
+        "latitude" : 21.2316522,
+        "longitude" : 72.9040557,
+        "addrasse" : "D Mart Sarthana, Subhash Nagar, Nana Varachha, Surat, Gujarat 395006",
+        "ratting" : 4.3
+    },
+
+    {
+        "Id" : 3,
+        "superMarketName" : "Reliance Smart",
+        "latitude" : 21.2165305,
+        "longitude" : 72.8221893,
+        "addrasse" : "Reliance Smart, 206, Ved Rd, Prannath Society, Industrial Area, Katargam, Surat, Gujarat 395004",
+        "ratting" : 4.1
+    },
+
+    {
+        "Id" : 4,
+        "superMarketName" : "Dhiraj Sons",
+        "latitude" : 21.2213062,
+        "longitude" : 72.8359598,
+        "addrasse" : "Dhiraj Sons, Opp. Mehta Petrol Pump, SH 602,, Patel Nagar, Surat, Gujarat",
+        "ratting" : 4.0
+    },
+
+    {
+        "Id" : 5,
+        "superMarketName" : "National Handloom",
+        "latitude" : 21.2307493,
+        "longitude" : 72.9026921,
+        "addrasse" : "National Handloom Corporation, Avadh Viceroy, Varachha Main Rd, Sarthana Jakat Naka, Varachha, Surat, Gujarat 395006",
+        "ratting" : 4.1
+    },
+
+    {
+        "Id" : 6,
+        "superMarketName" : "Big Bazaar", 
+        "latitude" : 21.1587527,
+        "longitude" : 72.7709348,
+        "addrasse" : "Big Bazaar, Vesu Main Road, Piplod, Surat, Gujarat 395007",
+        "ratting" : 4.0
+    },
+
+    {
+        "Id" : 7,
+        "superMarketName" : "Arvind Super Store",
+        "latitude" : 21.1605576,
+        "longitude" : 72.7722456,
+        "addrasse" : "Piplod, Surat, Gujarat 395007",
+        "ratting" : 4.0
+    },
+
+    {
+        "Id" : 8,
+        "superMarketName" : "VEE MART",
+        "latitude" : 21.2371074,
+        "longitude" : 72.8318319,
+        "addrasse" : "Aamba Talavadi, Sarita Society, Vishal Nagar, Surat, Gujarat 395004",
+        "ratting" : 5.0
+    },
+    
+    {
+        "Id" : 9,
+        "superMarketName" : "PATEL & SONS SUPERMART",
+        "latitude" : 21.2329823,
+        "longitude" : 72.8362656,
+        "addrasse" : "Akshar Kunj, Katargam, Surat, Gujarat 395004",
+        "ratting" : 4.6
+    },
+
+    {
+        "Id" : 10,
+        "superMarketName" : "PATEL Brothers",
+        "latitude" : 21.2251957,
+        "longitude" : 72.821664,
+        "addrasse" : "657, Ved Rd, Singanpor Char Rasta, Ishwar Nagar Society, Vishal Nagar, Surat, Gujarat 395004",
+        "ratting" : 4.8
+    }
+    
+]
