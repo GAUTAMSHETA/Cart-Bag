@@ -13,9 +13,9 @@ Cart bag provide common E-platform to small general store or super market to sel
             <tr>
                 <td>Designing & <br>other Support</td>
                 <td><a href="https://github.com/Shruti8196">Shruti Pansuriya</a><br>
-                    <a href="https://github.com/GAUTAMSHETA">Darshita Akabari</a><br>
-                    <a href="https://github.com/GAUTAMSHETA">Hiral Rathod</a><br>
-                    <a href="https://github.com/GAUTAMSHETA">Nisha Kakadiya</a><br></td>
+                    <a href="https://github.com/darshitaAkabari">Darshita Akabari</a><br>
+                    <a href="https://github.com/hiralRathod0">Hiral Rathod</a><br>
+                    <a href="https://github.com/nishakakadiya/">Nisha Kakadiya</a><br></td>
                 <td>https://www.linkedin.com/in/shruti-pansuriya/<br>
                     https://www.linkedin.com/in/darshita-akabari-4339501b5/<br>
                     https://www.linkedin.com/in/hiral-rathod-ba1761170/<br>
